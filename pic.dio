@@ -1,0 +1,86 @@
+<mxfile host="65bd71144e">
+    <diagram id="z1pEaPGQNh0gtHoUqC9N" name="第 1 页">
+        <mxGraphModel dx="635" dy="352" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="281" y="74" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="153" y="74"/>
+                            <mxPoint x="274" y="74"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="273.1217346191406" y="108.9194107055664" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="153" y="109"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="黑龙江省" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="76" width="73" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="74" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="330" y="56"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="哈尔滨" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="65" width="46" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="455" y="108" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="牡丹江" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="277" y="99" width="46" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="黑大" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="414" y="47" width="34" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="1" source="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="336" y="95" as="sourcePoint"/>
+                        <mxPoint x="426" y="85" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="303" y="85"/>
+                            <mxPoint x="420" y="85"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="理工" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="429" y="77" width="34" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="牡丹江师范学院" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="431" y="102" width="94" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="省字典" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="145" width="46" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="标号：省市名称" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="104" y="145" width="94" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="城市字典" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="47" y="171" width="57" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="省标号：{ 城市标号： 城市名称}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="104" y="171" width="180" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="学校字典" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="196" width="57" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="城市标号：[大学1， 大学2]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#143642;" vertex="1" parent="1">
+                    <mxGeometry x="107" y="196" width="153" height="18" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
